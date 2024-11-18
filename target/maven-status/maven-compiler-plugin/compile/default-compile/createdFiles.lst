@@ -1,0 +1,6 @@
+com/geobook/model/Multimedia.class
+com/geobook/model/Location.class
+com/geobook/controller/BookController.class
+com/geobook/util/DBConnection.class
+com/geobook/model/Chapter.class
+com/geobook/model/Book.class
